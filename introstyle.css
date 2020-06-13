@@ -7,6 +7,8 @@ h1 {
 	font-family: vision;
 	color: rgb(150,150,150);
 	width: 500px;
+	margin-top: 20px;
+	margin-bottom: 100px;
 	margin: auto;
 }
 
@@ -15,6 +17,8 @@ p {
 	font-family: vision;
 	color: rgb(150,150,150);
 	width: 1280px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 	margin: auto;
 	border-bottom: 2px solid rgb(150,150,150);
 	
