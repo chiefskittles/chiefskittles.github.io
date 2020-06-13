@@ -20,5 +20,6 @@ p {
 	margin: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	border-bottom: 2px rgb(150,150,150);
 	
 }
