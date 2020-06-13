@@ -2,9 +2,19 @@ body {
 		background-color: black;
 }
 
+h1 {
+	text-align: center;
+	font-family: vision;
+	color: rgb(150,150,150);
+	width: 200px;
+	margin: auto;
+
 p {
 	text-align: center;
 	font-family: vision;
 	color: rgb(150,150,150);
+	width: 200px;
+	margin: auto;
+	border-bottom: 2px solid rgb(150,150,150);
 	
 }
