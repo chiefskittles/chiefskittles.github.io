@@ -24,7 +24,8 @@ p {
 }
 
 a:link, a:visited, a:hover {
-	align: center;
+	
+	margin: auto;
 	font-family: asap, sans-serif;
 	background-color: rgb(150,150,150);
 	color: black;
