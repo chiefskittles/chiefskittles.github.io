@@ -13,9 +13,10 @@ h1 {
 }
 
 p {
-	text-align: center;
+	text-align: left;
 	font-family: asap, sans-serif;
 	color: rgb(150,150,150);
+	line-height: 1.1;
 	width: 1280px;
 	margin: auto;
 	border-bottom: solid 2px rgb(150,150,150);
