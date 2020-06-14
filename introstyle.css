@@ -22,3 +22,17 @@ p {
 	border-bottom: solid 2px rgb(150,150,150);
 	padding: 10px 0px;
 }
+
+a:link, a:visited, a:hover {
+	background-color: rgb(150,150,150);
+	color: black;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a:active {
+	background-color: black;
+	color: rgb(150,150,150);
+}
