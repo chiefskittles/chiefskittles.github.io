@@ -26,6 +26,7 @@ p {
 a:link, a:visited, a:hover {
 	max-width: 350px;
 	margin: auto;
+	margin-top: 10px;
 	font-family: asap, sans-serif;
 	background-color: rgb(150,150,150);
 	color: black;
