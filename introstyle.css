@@ -75,7 +75,10 @@ ul {
 }
 li {
 	float: left;
-	border-right: 1px solic black
+	border-right: 1px solid black
+}
+li:first-child {
+	border-left: 10px solid black
 }
 li:last-child {
 	border-right: none;
