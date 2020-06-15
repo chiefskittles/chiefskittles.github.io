@@ -42,12 +42,3 @@ a:active {
 	background-color: black;
 	color: rgb(150,150,150);
 }
-/* "Watermark" Coding 
-Make sure to specify the watermark image with the extra code
-id="watermark" so this will work. */
-#watermark {
-	  position: -webkit-sticky; /* Safari */
-	  position: sticky;
-	  bottom: 0;
-	  right: 0;
-}
