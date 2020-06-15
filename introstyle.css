@@ -30,6 +30,7 @@ a:link, a:visited, a:hover {
 	max-width: 100px;
 	margin: auto;
 	margin-top: 10px;
+	margin-bottom: 10px;
 	font-family: asap, sans-serif;
 	background-color: rgb(150,150,150);
 	color: black;
@@ -58,8 +59,8 @@ div {
 	display: grid;
 	width: 950px;
 	margin: auto;
-	grid-template-columns: 316.66px 316.66px 316.66px;
-	grid-gap: 150px;
+	grid-template-columns: 300px 300px 300px;
+	grid-gap: 19px;
 	align-content: center;
 	background-color; black;
 	padding: 20px 0px;
