@@ -85,14 +85,14 @@ li:last-child {
 }
 div a:link, a:visited {
 	display: block;
-	padding: 20px 15px;
+	padding: 10px 25px;
 	color: black;
 	background-color: rgb(150,150,150);
 	text-decoration: none;
 }
 div a:hover {
 	display: block;
-	padding: 20px 15px;
+	padding: 10px 25px;
 	color: black;
 	background-color: rgb(125,125,125);
 	text-decoration: none;
