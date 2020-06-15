@@ -42,3 +42,18 @@ a:active {
 	background-color: black;
 	color: rgb(150,150,150);
 }
+
+/* Tri-Box Links */
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 20px;
+	background-color; black;
+	padding: 20px;
+}
+.grid-container > div {   /*Specifies properties of the individual grid objects*/
+	background-color: rgb(150,150,150);
+	text-align: center;
+	font-family: asap, sans-serif;
+	padding: 20px 0;
+}
