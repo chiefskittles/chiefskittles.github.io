@@ -97,3 +97,16 @@ div a:hover {
 	color: black;
 	background-color: rgb(125,125,125);
 	text-decoration: none;
+}
+
+/* Basic Header */
+.header {
+	background-color: rgb(150,150,150);
+	text-align: center;
+	padding: 10px
+}
+h1.header {
+	font-family: asap, sans-serif;
+	font-size: 35px;
+	font-style: black;
+}
