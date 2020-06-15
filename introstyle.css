@@ -48,7 +48,7 @@ div {
 	font-family: asap, sans-serif;
 	color: rgb(150,150,150);
 	line-height: 1.2;
-	margin: auto;
+	align-content: center;
 	border-bottom: solid 2px rgb(150,150,150);
 	padding: 10px 0px;
 }
