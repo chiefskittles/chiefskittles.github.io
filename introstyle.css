@@ -59,7 +59,7 @@ div {
 	width: 950px;
 	margin: auto;
 	grid-template-columns: 300px 300px 300px;
-	grid-gap: 19px;
+	grid-gap: 25px;
 	align-content: center;
 	background-color; black;
 	padding: 20px 0px;
