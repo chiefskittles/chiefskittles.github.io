@@ -108,5 +108,6 @@ div a:hover {
 }
 h1.header {
 	font-family: asap, sans-serif;
-	font: 35px black;
+	font-size: 35px;
+	color: black;
 }
