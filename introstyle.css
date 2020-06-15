@@ -55,6 +55,7 @@ a:active {
 }
 .grid-container > div {   /*Specifies properties of the individual grid objects*/
 	background-color: rgb(150,150,150);
+	margin: auto;
 	text-align: center;
 	font-family: asap, sans-serif;
 }
