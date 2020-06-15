@@ -69,6 +69,7 @@ div {
 ul {
 	list-style-type: none;
 	width: 950px;
+	margin: auto;
 	padding: 0;
 	overflow: hidden;
 	border-bottom: none;
@@ -78,9 +79,6 @@ li {
 	border-right: 1px solid black;
 	align-content: center;
 	margin:auto;
-}
-li:first-child {
-	border-left: 10px solid black;
 }
 li:last-child {
 	border-right: none;
@@ -104,7 +102,6 @@ div a:hover {
 .header {
 	background-color: rgb(150,150,150);
 	text-align: center;
-	padding: 10px;
 	width: 950px;
 }
 h1.header {
