@@ -68,7 +68,8 @@ div {
 /* Nav Bar */
 ul {
 	list-style-type: none;
-	margin: 0;
+	width: 950;
+	margin: auto;
 	padding: 0;
 	overflow: hidden;
 	border-bottom: none;
