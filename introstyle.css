@@ -47,23 +47,6 @@ div {
 	padding: 10px 0px;
 }
 
-/* Tri-Box Links */
-.grid-container {
-	display: grid;
-	width: 950px;
-	margin: auto;
-	grid-template-columns: 300px 300px 300px;
-	grid-gap: 25px;
-	align-content: center;
-	background-color; black;
-	padding: 20px 0px;
-}
-.grid-container > div {   /*Specifies properties of the individual grid objects*/
-	background-color: rgb(150,150,150);
-	text-align: center;
-	font-family: asap, sans-serif;
-}
-
 /* Nav Bar */
 ul {
 	list-style-type: none;
