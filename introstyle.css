@@ -48,6 +48,7 @@ a:active {
 	display: grid;
 	grid-template-columns: 100px 100px 100px;
 	grid-gap: 10px;
+	margin: auto
 	background-color; black;
 	padding: 20px;
 }
@@ -55,5 +56,4 @@ a:active {
 	background-color: rgb(150,150,150);
 	text-align: center;
 	font-family: asap, sans-serif;
-	padding: 20px 0;
 }
