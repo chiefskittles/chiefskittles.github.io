@@ -76,6 +76,8 @@ ul {
 li {
 	float: left;
 	border-right: 1px solid black;
+	align-content: center;
+	width:950px;
 	margin:auto;
 }
 li:first-child {
