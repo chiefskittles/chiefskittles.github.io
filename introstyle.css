@@ -83,10 +83,17 @@ li:first-child {
 li:last-child {
 	border-right: none;
 }
-div a {
+div a:link, a:visited {
 	display: block;
 	padding: 20px 25px;
 	color: black;
 	background-color: rgb(150,150,150);
+	text-decoration: none;
+}
+div a:hover {
+	display: block;
+	padding: 20px 25px;
+	color: black;
+	background-color: rgb(175,175,175);
 	text-decoration: none;
 }
