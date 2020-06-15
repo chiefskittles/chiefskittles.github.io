@@ -71,6 +71,7 @@ ul {
 	width: 950px;
 	margin: auto;
 	padding: 0;
+	overflow: hidden;
 	border-bottom: none;
 }
 li {
