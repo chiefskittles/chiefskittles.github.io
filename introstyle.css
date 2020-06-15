@@ -43,6 +43,17 @@ a:active {
 	color: rgb(150,150,150);
 }
 
+div {
+	text-align: center;
+	font-family: asap, sans-serif;
+	color: rgb(150,150,150);
+	line-height: 1.2;
+	width: 950px;
+	margin: auto;
+	border-bottom: solid 2px rgb(150,150,150);
+	padding: 10px 0px;
+}
+
 /* Tri-Box Links */
 .grid-container {
 	display: grid;
