@@ -112,3 +112,14 @@ h1.header {
 	font-size: 45px;
 	color: black;
 }
+
+/* Basic Footer */
+footer {
+	background-color: rgb(150,150,150);
+	text-align: center;
+	width: 950px;
+	padding: 10px;
+	color: black;
+	font-size: 10px;
+	font-family: asap, sans-serif;
+}
