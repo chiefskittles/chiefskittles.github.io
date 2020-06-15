@@ -75,7 +75,7 @@ ul {
 }
 li {
 	float: left;
-	border-right: 1px solic rgb(150,150,150);
+	border-right: 1px solic black
 }
 li:last-child {
 	border-right: none;
