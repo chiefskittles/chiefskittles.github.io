@@ -46,6 +46,7 @@ a:active {
 /* Tri-Box Links */
 .grid-container {
 	display: grid;
+	margin: auto;
 	grid-template-columns: 100px 100px 100px;
 	grid-gap: 10px;
 	align-content: center;
