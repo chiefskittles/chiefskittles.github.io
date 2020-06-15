@@ -48,8 +48,8 @@ a:active {
 	display: grid;
 	width: 950px;
 	margin: auto;
-	grid-template-columns: 216.33px 216.33px 216.33px;
-	grid-gap: 130px;
+	grid-template-columns: 260px 260px 260px;
+	grid-gap: 150px;
 	align-content: center;
 	background-color; black;
 	padding: 20px 0px;
