@@ -1,6 +1,6 @@
 body {
 		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,32));
-		background-size: cover cover;
+		background-size: 1920px 1080px;
 		background-clip: content-box;
 		background-repeat: repeat-x;
 }
