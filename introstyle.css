@@ -1,5 +1,6 @@
 body {
 		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,32));
+		background-repeat: no-repeat;
 }
 
 /*Normal Paragraph Formatting*/
