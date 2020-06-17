@@ -114,3 +114,6 @@ footer {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+img.flexbox-h {
+	border-radius: 5px;
+}
