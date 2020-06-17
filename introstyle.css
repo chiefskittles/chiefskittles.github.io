@@ -108,6 +108,7 @@ footer {
 /* Flexbox Setup */
 .flexbox-h {
 	width: 950px;
+	margin: auto;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
