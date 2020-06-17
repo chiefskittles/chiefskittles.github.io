@@ -126,12 +126,13 @@ footer {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	border-radius: 5px; /* Rounds the image corners */
+
 }
 img .flexbox-h {
 	-webkit-transition-duration: 0.5s; /* Safari */
 	transition-timing-function: linear;
 	opacity: 0.9;
+	border-radius: 5px; /* Rounds the image corners */
 }
 img:hover {
 	box-shadow: 0px 0px 15px 5px rgba(255,255,255,1.0); /* Fades in a shadow */
