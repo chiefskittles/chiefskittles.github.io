@@ -104,3 +104,12 @@ footer {
 	bottom: 0px;
 	font-family: asap, sans-serif;
 }
+
+/* Flexbox Setup */
+.flexbox-h {
+	width: 950px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
