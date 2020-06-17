@@ -140,6 +140,7 @@ div img:hover { /* Makes the selected/specified items (images) in any divs do so
 	opacity: 0.3;
 }
 div p {
+	width: 450px;
 	opacity: 0;
 }
 div p:hover {
