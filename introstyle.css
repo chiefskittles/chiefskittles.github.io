@@ -81,14 +81,14 @@ div a:hover {
 }
 h1.header {
 	font-family: asap, sans-serif;
-	font-size: 60px;
+	font-size: 80px;
 	color: rgb(191,191,169);
 	margin-top: 30px;
 	margin-bottom: -5px;
 }
 h2.header {
 font-family: asap, sans-serif;
-	font-size: 35px;
+	font-size: 45px;
 	font-style: italic;
 	color: rgb(191,191,169);
 	text-align: center;
@@ -109,12 +109,12 @@ footer {
 
 /* Flexbox Setup */
 .flexbox-h {
-	width: 950px;
+	width: 1440px;
 	margin: auto;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 div img {
 	border-radius: 5px;
