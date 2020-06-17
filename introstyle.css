@@ -15,7 +15,7 @@ p {
 }
 
 /* Link Button Design */
-a:link, a:visited, a:hover, a:active {
+/* a:link, a:visited, a:hover, a:active {
 	max-width: 100px;
 	margin: auto;
 	margin-top: 10px;
@@ -26,16 +26,16 @@ a:link, a:visited, a:hover, a:active {
 	text-align: center;
 	text-decoration: none;
 	display: block;
-}
+} */
 
-div {
+/* div {
 	text-align: center;
 	font-family: asap, sans-serif;
 	color: rgb(191,191,169);
 	line-height: 1.2;
 	align-content: center;
 	padding: 10px 0px;
-}
+} */
 
 /* Nav Bar */
 ul {
