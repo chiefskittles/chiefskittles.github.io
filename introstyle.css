@@ -78,12 +78,12 @@ div a:hover {
 	font-family: asap, sans-serif;
 	color: rgb(150,150,150);
 	margin: auto;
-	margin-top: 30px;
 }
 h1.header {
 	font-family: asap, sans-serif;
 	font-size: 60px;
 	color: rgb(150,150,150);
+	margin-top: 30px;
 }
 h2.header {
 font-family: asap, sans-serif;
@@ -91,6 +91,7 @@ font-family: asap, sans-serif;
 	font-style: italic;
 	color: rgb(150,150,150);
 	text-align: center;
+	margin-bottom: 10px;
 }
 /* Basic Footer */
 footer {
