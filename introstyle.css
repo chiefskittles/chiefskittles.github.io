@@ -2,7 +2,6 @@ body {
 		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,32));
 		background-size: cover;
 		background-repeat: repeat-x;
-		background-origin: content-box;
 }
 
 /*Normal Paragraph Formatting*/
