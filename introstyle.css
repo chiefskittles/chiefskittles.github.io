@@ -82,16 +82,21 @@ div a:hover {
 
 /* Basic Header */
 .header {
-	background-color: rgb(150,150,150);
+	background-color: black;
 	text-align: center;
 	width: 950px;
 }
 h1.header {
 	font-family: asap, sans-serif;
-	font-size: 45px;
-	color: black;
+	font-size: 60px;
+	color: rgb(150,150,150);
 }
-
+h2.header {
+font-family: asap, sans-serif;
+	font-size: 35px;
+	font-style: italic;
+	color: rgb(150,150,150);
+}
 /* Basic Footer */
 footer {
 	background-color: rgb(150,150,150);
