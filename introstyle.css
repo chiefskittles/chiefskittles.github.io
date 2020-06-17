@@ -22,8 +22,6 @@ p {
 	line-height: 1.2;
 	width: 950px;
 	margin: auto;
-	border-bottom: solid 2px rgb(191,191,169);
-	padding: 10px 0px;
 }
 
 /* Link Button Design */
@@ -142,6 +140,7 @@ div img:hover { /* Makes the selected/specified items (images) in any divs do so
 div p {
 	width: 450px;
 	opacity: 0;
+	transition-duration: 0.5s;
 }
 div p:hover {
 	opacity: 1;
