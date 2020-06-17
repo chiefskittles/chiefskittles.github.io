@@ -2,16 +2,6 @@ body {
 		background-color: black;
 }
 
-/*Header 1 Formatting*/
-h1 {
-	text-align: center;
-	font-family: asap, sans-serif;
-	color: rgb(150,150,150);
-	width: 500px;
-	margin: auto;
-	margin-top: 30px;
-}
-
 /*Normal Paragraph Formatting*/
 p {
 	text-align: center;
@@ -85,6 +75,10 @@ div a:hover {
 	background-color: black;
 	text-align: center;
 	width: 950px;
+	font-family: asap, sans-serif;
+	color: rgb(150,150,150);
+	margin: auto;
+	margin-top: 30px;
 }
 h1.header {
 	font-family: asap, sans-serif;
