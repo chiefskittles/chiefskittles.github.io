@@ -1,8 +1,17 @@
+/* Background Image */
 body {
 		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,32));
 		background-size: 1920px 1080px;
 		background-clip: content-box;
 		background-repeat: repeat-x;
+}
+@media only screen and (min-device-width:400px) {
+	body {
+		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,32));
+		background-size: 100% 1080px;
+		background-clip: content-box;
+		background-repeat: repeat-x;
+	}
 }
 
 /*Normal Paragraph Formatting*/
