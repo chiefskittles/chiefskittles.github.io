@@ -132,3 +132,6 @@ footer {
 div img {
 	border-radius: 5px;
 }
+div img:hover {
+	box-shadow: 0 10px 15px 5px white;
+}
