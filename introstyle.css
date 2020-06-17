@@ -134,7 +134,7 @@ img.flexbox-h {
 	transition-timing-function: linear;
 	opacity: 0.9;
 }
-div img:hover {
+a img:hover {
 	box-shadow: 0px 0px 15px 5px rgba(255,255,255,1.0); /* Fades in a shadow */
 	opacity: 0.3;
 }
