@@ -147,3 +147,7 @@ div p {
 }
 div p:hover {
 	opacity: 1;
+}
+div a {
+	text-decoration: none;
+}
