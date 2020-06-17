@@ -55,7 +55,7 @@ li {
 li:last-child {
 	border-right: none;
 }
-div a:link, a:visited {
+/* div a:link, a:visited {
 	display: block;
 	padding: 10px 25px;
 	color: rgb(0,10,64);
@@ -68,7 +68,7 @@ div a:hover {
 	color: rgb(0,10,64);
 	background-color: rgb(125,125,125);
 	text-decoration: none;
-}
+} */
 
 /* Basic Header */
 .header {
