@@ -144,7 +144,6 @@ div p {
 	transition-duration: 0.5s;
 	transition-timing-function: linear;
 	text-decoration: none;
-	transform: translate(0, -225px);
 }
 div p:hover {
 	opacity: 1;
