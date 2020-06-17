@@ -131,6 +131,7 @@ div img {
 	border-radius: 5px; /* Rounds the image corners */
 	transition-duration: 0.5s; /* Sets the timing of the hover animation */
 	-webkit-transition-duration: 0.5s; /* Safari */
+	transition-timing-function: linear;
 	opacity: 0.9;
 }
 div img:hover { /* Makes the selected/specified items (images) in any divs do something when moused over */
@@ -144,6 +145,7 @@ div p {
 	left: 50%;
 	opacity: 0;
 	transition-duration: 0.5s;
+	transition-timing-function: linear;
 	text-decoration: none;
 	transform: translate(0, -225px);
 }
