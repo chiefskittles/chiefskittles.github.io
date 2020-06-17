@@ -137,5 +137,5 @@ div img {
 }
 div img:hover { /* Makes the selected/specified items (images) in any divs do something when moused over */
 	box-shadow: 0px 0px 15px 5px rgba(220,220,220,0.70); /* Fades in a shadow */
-	opacity: 0.2;
+	opacity: 0.3;
 }
