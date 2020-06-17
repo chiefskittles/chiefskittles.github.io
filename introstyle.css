@@ -73,7 +73,7 @@ div a:hover {
 
 /* Basic Header */
 .header {
-	background-color: rgb(0,10,64);
+	background-color: rgba(0,10,64,0.0);
 	text-align: center;
 	width: 950px;
 	font-family: asap, sans-serif;
