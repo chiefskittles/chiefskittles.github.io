@@ -140,9 +140,6 @@ div img:hover { /* Makes the selected/specified items (images) in any divs do so
 }
 div p {
 	width: 450px;
-	height: 450px;
-	top: 50%;
-	left: 50%;
 	opacity: 0;
 	transition-duration: 0.5s;
 	transition-timing-function: linear;
