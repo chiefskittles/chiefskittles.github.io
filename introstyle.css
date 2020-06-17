@@ -1,5 +1,5 @@
 body {
-		background-color: rgb(0,0,64);
+		background-color: rgb(20,0,60);
 }
 
 /*Normal Paragraph Formatting*/
@@ -21,7 +21,7 @@ a:link, a:visited, a:hover, a:active {
 	margin-top: 10px;
 	font-family: asap, sans-serif;
 	background-color: rgb(255,255,225);
-	color: rgb(0,0,64);
+	color: rgb(20,0,60);
 	padding: 10px 25px;
 	text-align: center;
 	text-decoration: none;
@@ -48,7 +48,7 @@ ul {
 }
 li {
 	float: left;
-	border-right: 1px solid rgb(0,0,64);
+	border-right: 1px solid rgb(20,0,60);
 	align-content: center;
 	margin:auto;
 }
@@ -58,21 +58,21 @@ li:last-child {
 div a:link, a:visited {
 	display: block;
 	padding: 10px 25px;
-	color: rgb(0,0,64);
+	color: rgb(20,0,60);
 	background-color: rgb(255,255,225);
 	text-decoration: none;
 }
 div a:hover {
 	display: block;
 	padding: 10px 25px;
-	color: rgb(0,0,64);
+	color: rgb(20,0,60);
 	background-color: rgb(125,125,125);
 	text-decoration: none;
 }
 
 /* Basic Header */
 .header {
-	background-color: rgb(0,0,64);
+	background-color: rgb(20,0,60);
 	text-align: center;
 	width: 950px;
 	font-family: asap, sans-serif;
@@ -100,7 +100,7 @@ footer {
 	text-align: center;
 	width: 100%;
 	padding: 15px 0px;
-	color: rgb(0,0,64);
+	color: rgb(20,0,60);
 	font-size: 14px;
 	position: fixed;
 	bottom: 0px;
