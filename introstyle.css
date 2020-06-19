@@ -136,7 +136,8 @@ footer {
   align-items: center;
   position: absolute;
   color: white;
-  font-size: 48px;
+  font-size: 108px;
+  font-style: bold;
   width: 100%;
   height: 100%;
 }
