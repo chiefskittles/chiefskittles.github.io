@@ -143,7 +143,7 @@ footer {
 img {
 	-webkit-transition-duration: 0.3s; /* Safari */
 	transition-timing-function: linear;
-	opacity: 1.0;
+	opacity: 0.99999;
 	border-radius: 5px; /* Rounds the image corners */
 }
 img:hover {
