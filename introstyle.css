@@ -131,7 +131,7 @@ footer {
   position: relative;
 }
 .centered-text {
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   align-items: center;
   position: absolute;
