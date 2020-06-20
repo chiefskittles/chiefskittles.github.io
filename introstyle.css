@@ -151,6 +151,6 @@ img:hover {
 	box-shadow: 0px 0px 15px 5px rgba(255,255,255,1.0); /* Fades in a shadow */
 	transition-timing-function: linear;
 	transition-duration: 0.3s; /* Sets the timing of the hover animation */
-	opacity: 0.3;
+	opacity: 0.2;
 	-webkit-transition-duration: 0.3s; /* Safari */
 }
