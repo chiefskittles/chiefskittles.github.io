@@ -51,9 +51,9 @@ p {
 ul {
 	list-style-type: none;
 	width: 1920px;
-	margin: auto;
+	margin: 0;
 	padding: 0;
-	overflow: auto;
+	overflow: hidden;
 	border-bottom: none;
 	font-family: asap, sans-serif;
 }
@@ -61,7 +61,7 @@ li {
 	float: left;
 	border-right: 1px solid rgb(0,10,64);
 	align-content: center;
-	margin:auto;
+	margin: auto;
 }
 li:last-child {
 	border-right: none;
@@ -98,7 +98,7 @@ h1.header {
 	margin-bottom: -5px;
 }
 h2.header {
-font-family: asap, sans-serif;
+	font-family: asap, sans-serif;
 	font-size: 45px;
 	font-style: italic;
 	color: rgb(191,191,169);
