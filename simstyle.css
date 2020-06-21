@@ -101,10 +101,6 @@ a img:hover {
 	transition-duration: 0.3s;
 }
 
-/* Flexbox Setup */
-.flexbox-mid {
-	width: 1330px;
-}
 /* Basic Footer */
 footer {
 	background-color: rgb(191,191,169);
