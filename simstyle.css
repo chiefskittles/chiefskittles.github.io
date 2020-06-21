@@ -107,7 +107,13 @@ h3.header {
 	text-align: left;
 	margin-bottom: 0px;
 }
-
+a img {
+	-webkit-transition-duration: 0.3s; /* Safari */
+	transition-timing-function: linear;
+	opacity: 0.99999;
+	border-radius: 5px; /* Rounds the image corners */
+}
+	
 /* Basic Footer */
 footer {
 	background-color: rgb(191,191,169);
