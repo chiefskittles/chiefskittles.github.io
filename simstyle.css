@@ -51,7 +51,7 @@ p {
 ul {
 	list-style-type: none;
 	width: 1920px;
-	position: static;
+	position: fixed;
 	left: 0;
 	margin: 0;
 	padding: 0;
@@ -93,7 +93,8 @@ div a:hover {
 }
 h1.header {
 	font-family: asap, sans-serif;
-	font-size: 80px;
+	font-size: 60px;
+	text-align: left;
 	color: rgb(191,191,169);
 	margin-top: 30px;
 	margin-bottom: -5px;
