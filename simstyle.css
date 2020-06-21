@@ -113,7 +113,7 @@ h3.header {
 	font-style: italic;
 	color: rgb(191,191,169);
 	text-align: left;
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 }
 a img {
 	-webkit-transition-duration: 0.3s; /* Safari */
