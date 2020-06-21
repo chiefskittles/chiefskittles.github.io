@@ -54,7 +54,7 @@ ul {
 	position: static;
 	margin: 0;
 	padding: 0;
-	overflow: visible;
+	overflow: hidden;
 	font-family: asap, sans-serif;
 }
 li {
