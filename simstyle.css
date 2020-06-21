@@ -51,9 +51,10 @@ p {
 ul {
 	list-style-type: none;
 	width: 1920px;
+	height: auto;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
+	overflow: visible;
 	border-bottom: none;
 	font-family: asap, sans-serif;
 }
