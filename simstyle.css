@@ -51,6 +51,8 @@ p {
 ul {
 	list-style-type: none;
 	width: 1920px;
+	position: fixed;
+	left: 0;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
