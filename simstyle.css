@@ -53,8 +53,9 @@ ul {
 	width: 1920px;
 	margin: auto;
 	padding: 0;
-	overflow: hidden;
+	overflow: auto;
 	border-bottom: none;
+	font-family: asap, sans-serif;
 }
 li {
 	float: left;
