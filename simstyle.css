@@ -101,11 +101,19 @@ h1.header {
 h2.header {
 	font-family: asap, sans-serif;
 	font-size: 45px;
+	color: rgb(191,191,169);
+	text-align: left;
+	margin-bottom: 0px;
+}
+h3.header {
+	font-family: asap, sans-serif;
+	font-size: 30px;
 	font-style: italic;
 	color: rgb(191,191,169);
-	text-align: center;
-	margin-bottom: 75px;
+	text-align: left;
+	margin-bottom: 0px;
 }
+
 /* Basic Footer */
 footer {
 	background-color: rgb(191,191,169);
