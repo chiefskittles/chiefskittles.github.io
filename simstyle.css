@@ -38,7 +38,6 @@ li {
 	align-content: center;
 	margin: auto;
 	float: left;
-	width: 100%;
 }
 li:last-child {
 	border-right: none;
