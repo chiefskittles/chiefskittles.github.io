@@ -37,9 +37,10 @@ li {
 	border-bottom: 1px solid rgb(0,10,64);
 	align-content: center;
 	margin:auto;
+	float: left;
 }
 li:last-child {
-	margin-bottom: none;
+	border-right: none;
 }
 div.links a:link, a:visited {
 	display: block;
