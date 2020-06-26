@@ -36,7 +36,8 @@ ul {
 li {
 	border-right: 1px solid rgb(0,10,64);
 	align-content: center;
-	margin:auto;
+	margin: auto;
+	display: block;
 }
 li:last-child {
 	border-right: none;
