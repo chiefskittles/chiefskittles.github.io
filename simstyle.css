@@ -18,7 +18,7 @@ body {
 p {
 	text-align: left;
 	font-family: asap, sans-serif;
-	background-color: rgb(191,191,169);
+	color: rgb(191,191,169);
 	line-height: 1.2;
 	width: 1330px;
 	margin: auto;
@@ -32,6 +32,7 @@ ul {
 	overflow: hidden;
 	font-family: asap, sans-serif;
 	width: 1330px;
+	background-color: rgb(191,191,169);
 }
 li {
 	border-right: 1px solid rgb(0,10,64);
