@@ -31,6 +31,7 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	font-family: asap, sans-serif;
+	width: 1330px;
 }
 li {
 	border-right: 1px solid rgb(0,10,64);
