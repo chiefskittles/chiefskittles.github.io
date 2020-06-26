@@ -27,7 +27,6 @@ p {
 /* Nav Bar */
 ul {
 	list-style-type: none;
-	width: 250px;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
@@ -37,7 +36,6 @@ li {
 	border-right: 1px solid rgb(0,10,64);
 	align-content: center;
 	margin: auto;
-	display: block;
 }
 li:last-child {
 	border-right: none;
