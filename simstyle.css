@@ -40,14 +40,14 @@ li {
 li:last-child {
 	border-right: none;
 }
-div.links a:link, a:visited {
+.links a:link, a:visited {
 	display: block;
 	padding: 10px 25px;
 	color: rgb(0,10,64);
 	background-color: rgb(191,191,169);
 	text-decoration: none;
 }
-div.links a:hover {
+.links a:hover {
 	display: block;
 	padding: 10px 25px;
 	color: rgb(0,10,64);
