@@ -16,11 +16,11 @@ body {
 
 /*Normal Paragraph Formatting*/
 p {
-	text-align: center;
+	text-align: left;
 	font-family: asap, sans-serif;
 	color: rgb(191,191,169);
 	line-height: 1.2;
-	width: 950px;
+	width: 1330px;
 	margin: auto;
 }
 
