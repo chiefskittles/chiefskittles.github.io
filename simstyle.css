@@ -92,7 +92,6 @@ h3.header {
 	margin-bottom: 10px;
 }
 a img {
-	-webkit-transition-duration: 0.3s; /* Safari */
 	opacity: 0.99999;
 	border-radius: 5px; /* Rounds the image corners */
 	margin-right: 25px;
@@ -101,6 +100,7 @@ a img:hover {
 	box-shadow: 0px 0px 15px 3px rgba(255,255,255,0.7);
 	transition-timing-function: linear;
 	transition-duration: 0.3s;
+	-webkit-transition-duration: 0.3s; /* Safari */
 }
 
 .flexbox-mid {
