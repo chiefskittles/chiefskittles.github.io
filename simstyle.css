@@ -20,7 +20,7 @@ p {
 	font-family: asap, sans-serif;
 	color: rgb(191,191,169);
 	line-height: 1.2;
-	width: 800px;
+	width: 900px;
 	margin: auto;
 }
 
@@ -31,7 +31,7 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	font-family: asap, sans-serif;
-	width: 800px;
+	width: 900px;
 	background-color: rgb(191,191,169);
 }
 li {
@@ -61,7 +61,7 @@ li:last-child {
 .header {
 	background-color: rgba(0,10,64,0.0);
 	text-align: center;
-	width: 800px;
+	width: 900px;
 	font-family: asap, sans-serif;
 	color: rgb(191,191,169);
 	margin: auto;
@@ -106,7 +106,7 @@ a img:hover {
 
 .flexbox-mid {
 	display: flex;
-	width: 800px;
+	width: 900px;
 	flex-direction: row;
 	padding: 0px;
 }
