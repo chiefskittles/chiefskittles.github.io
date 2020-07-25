@@ -75,7 +75,6 @@ h1.header {
 	color: rgb(191,191,169);
 	margin-top: -10px;
 	margin-bottom: -5px;
-	border-bottom: 2px solid rgb(191,191,169);
 }
 h2.header {
 	font-family: asap, sans-serif;
@@ -84,6 +83,7 @@ h2.header {
 	text-align: left;
 	margin-top: 5px;
 	margin-bottom: 0px;
+	border-top: 2px solid rgb(191,191,169);
 }
 h3.header {
 	font-family: asap, sans-serif;
