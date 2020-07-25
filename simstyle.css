@@ -32,10 +32,10 @@ ul {
 	overflow: hidden;
 	font-family: asap, sans-serif;
 	width: 900px;
-	background-color: rgb(191,191,169);
+	background-color: rgb(0,10,64);
 }
 li {
-	border-right: 1px solid rgb(0,10,64);
+	border-right: 1px solid rgb(191,191,169);
 	align-content: center;
 	margin: auto;
 	float: left;
@@ -46,14 +46,14 @@ li:last-child {
 .links a:link, a:visited {
 	display: block;
 	padding: 10px 25px;
-	color: rgb(0,10,64);
-	background-color: rgb(191,191,169);
+	color: rgb(191,191,169);
+	background-color: rgb(0,10,64);
 	text-decoration: none;
 }
 .links a:hover {
 	display: block;
 	padding: 10px 25px;
-	color: rgb(0,10,64);
+	color: rgb(191,191,169);
 	background-color: rgb(125,125,125);
 	text-decoration: none;
 }
