@@ -35,7 +35,7 @@ ul {
 	background-color: rgb(0,10,64);
 }
 li {
-	border-right: 1px solid rgb(191,191,169);
+	border: 2px solid rgb(191,191,169);
 	align-content: center;
 	margin: auto;
 	float: left;
