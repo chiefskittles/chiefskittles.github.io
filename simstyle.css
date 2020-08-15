@@ -1,7 +1,7 @@
 /* Background Image */
 body {
 		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,48));
-		background-size: 1920px 4500px;
+		background-size: 1920px 5750px;
 		background-clip: content-box;
 		background-repeat: repeat-x;
 }
