@@ -98,14 +98,6 @@ a img:hover {
 	-webkit-transition-duration: 0.3s; /* Safari */
 }
 
-.textlink a:link {
-	color: rgb(191,191,169);
-}
-
-.textlink a:visited {
-	color: rgb(125,125,125);
-}
-
 .flexbox-mid {
 	display: flex;
 	width: 900px;
