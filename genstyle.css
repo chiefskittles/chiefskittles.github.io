@@ -1,0 +1,87 @@
+/* Background */
+body {
+		background-image: linear-gradient(rgb(0,10,64), rgb(0,0,48));
+		background-size: 1920px 5750px;
+		background-clip: content-box;
+		background-repeat: repeat-x;
+}
+
+/* Top Bar */
+ul {
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+	overflow: hidden;
+	font-family: asap, sans-serif;
+	width: 900px;
+	background-color: rgb(0,10,64);
+}
+li {
+	border-right: 2px solid rgb(191,191,169);
+	border-top: 2px solid rgb(191,191,169);
+	border-bottom: 2px solid rgb(191,191,169);
+	align-content: center;
+	margin: auto;
+	float: left;
+}
+li:first-child {
+	border-left: 2px solid rgb(191,191,169);
+}
+.topbar a:link, a:visited {
+	display: block;
+	padding: 10px 25px;
+	color: rgb(191,191,169);
+	background-color: rgb(0,10,64);
+	text-decoration: none;
+}
+.topbar a:hover {
+	display: block;
+	padding: 10px 25px;
+	color: rgb(191,191,169);
+	background-color: rgb(125,125,125);
+	text-decoration: none;
+}
+
+/*Normal Paragraph Formatting*/
+p {
+	text-align: left;
+	font-family: asap, sans-serif;
+	color: rgb(191,191,169);
+	line-height: 1.3;
+	width: 900px;
+	margin: auto;
+}
+
+/* Basic Headers */
+.header {
+	background-color: rgba(0,10,64,0.0);
+	text-align: center;
+	width: 900px;
+	font-family: asap, sans-serif;
+	color: rgb(191,191,169);
+	margin: auto;
+}
+h1.header {
+	font-family: asap, sans-serif;
+	font-size: 60px;
+	text-align: left;
+	color: rgb(191,191,169);
+	margin-top: -10px;
+	margin-bottom: -5px;
+}
+h2.header {
+	font-family: asap, sans-serif;
+	font-size: 35px;
+	color: rgb(191,191,169);
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	border-top: 2px solid rgb(191,191,169);
+}
+h3.header {
+	font-family: asap, sans-serif;
+	font-size: 25px;
+	font-style: italic;
+	color: rgb(191,191,169);
+	text-align: left;
+	margin-bottom: 10px;
